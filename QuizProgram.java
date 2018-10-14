@@ -106,13 +106,13 @@ class  Quiz extends JFrame implements ActionListener{
                         qpa[2][3]="Sikkim";
                         qpa[2][4]="Tripura";
 
-                        qpa[3][0]="When was Burma was separated from India?";
+                        qpa[3][0]="When was Burma(Myanmmar) separated from India?";
                         qpa[3][1]="1948";
                         qpa[3][2]="1937";
                         qpa[3][3]="1901";
                         qpa[3][4]="1929";
 
-                        qpa[4][0]="When did India become a republic?";
+                        qpa[4][0]="When did India become a Republic?";
                         qpa[4][1]="1947";
                         qpa[4][2]="1948";
                         qpa[4][3]="1950";

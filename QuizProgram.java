@@ -145,7 +145,7 @@ class  Quiz extends JFrame implements ActionListener{
                         qpa[9][0]="Nagaland was separated from which state?";
                         qpa[9][1]="Arunachal Pradesh";
                         qpa[9][2]="Assam";
-                        qpa[9][3]="W Bengal";
+                        qpa[9][3]="West Bengal";
                         qpa[9][4]="Meghalaya";
 
                        

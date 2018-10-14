@@ -22,8 +22,8 @@ class  Quiz extends JFrame implements ActionListener{
              initializedata();
                       setTitle("Quiz Program");
                       setDefaultCloseOperation(EXIT_ON_CLOSE);
-                      setSize(430,350);
-                      setLocation(300,100);
+                      setSize(500,400);
+                      setLocation(400,200);
                       setResizable(false);
                       Container cont=getContentPane();
                       cont.setLayout(null);          
